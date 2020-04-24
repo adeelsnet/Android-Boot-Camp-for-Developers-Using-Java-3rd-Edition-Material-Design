@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standard_margin">16dp</dimen>
+    <dimen name="standard_card_elevation">8dp</dimen>
+    <dimen name="standard_corner_redius">4dp</dimen>
+</resources>

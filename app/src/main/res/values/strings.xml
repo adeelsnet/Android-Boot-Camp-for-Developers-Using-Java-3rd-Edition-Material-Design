@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cars Demo</string>
+    <string name="car_make">Car Make</string>
+</resources>
